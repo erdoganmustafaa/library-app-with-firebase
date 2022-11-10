@@ -13,7 +13,7 @@ export default function Login() {
   
   return (
     <div>
-      <h2 className='welcome-title-pages'>Sign Up Page</h2>
+      <h2 className='welcome-title-pages'>Sign In Page</h2>
       <form onSubmit={handleSubmit}>
         <label>
           <span>Email Address :</span>

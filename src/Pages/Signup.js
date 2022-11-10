@@ -14,7 +14,7 @@ export default function Signup() {
   
   return (
     <div>
-      <h2 className='welcome-title-pages'>Register Page</h2>
+      <h2 className='welcome-title-pages'>Sign Up Page</h2>
       <form onSubmit={handleSubmit}>
         <div className='signup-form-content'>
         <label>
